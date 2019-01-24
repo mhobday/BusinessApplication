@@ -9,13 +9,15 @@
   </a>
 </p>
 
+Description: <>
+
 
 Duty of Team Member:
 
-Chen Su           - 
+Chen Su           -  <>
 
-Jared Boyer       - 
+Jared Boyer       -  <>
 
-Max Hobday        -
+Max Hobday        -  <>
 
-Laura Mmuellner   -
+Laura Mmuellner   -  <>
