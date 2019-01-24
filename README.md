@@ -1,8 +1,8 @@
 
 <p align="center">
     <img
-      alt= citylightslogo.png
-      src= citylightslogo.png
+      alt= 
+      src= 	
       width="400"
     />
 </p>
