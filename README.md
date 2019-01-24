@@ -7,7 +7,7 @@
     />
 </p>
 
-# CityLight Entertainment
+# City Lights Entertainment
 Description: <>
 
 
