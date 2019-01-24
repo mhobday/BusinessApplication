@@ -6,7 +6,6 @@
       src=
       width="400"
     />
-  </a>
 </p>
 
 Description: <>
@@ -20,4 +19,4 @@ Jared Boyer       -  <>
 
 Max Hobday        -  <>
 
-Laura Mmuellner   -  <>
+Laura Muellner   -  <>
