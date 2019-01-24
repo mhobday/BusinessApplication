@@ -11,7 +11,11 @@
 
 
 Duty of Team Member:
+
 Chen Su           - 
+
 Jared Boyer       - 
+
 Max Hobday        -
+
 Laura Mmuellner   -
