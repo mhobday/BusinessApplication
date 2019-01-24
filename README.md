@@ -1,13 +1,11 @@
-# BusinessApplication - CityLight Entertainment
-
 <p align="center">
     <img
-      alt=
+      alt= 
       src=
       width="400"
     />
 </p>
-
+# CityLight Entertainment
 Description: <>
 
 
