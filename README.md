@@ -1,14 +1,13 @@
-# BusinessApplication - CityLight Entertainment
 
 <p align="center">
     <img
-      alt=
-      src=
+      alt= citylightslogo.png
+      src= citylightslogo.png
       width="400"
     />
-  </a>
 </p>
 
+# City Lights Entertainment
 Description: <>
 
 
@@ -20,4 +19,4 @@ Jared Boyer       -  <>
 
 Max Hobday        -  <>
 
-Laura Mmuellner   -  <>
+Laura Muellner   -  <>
