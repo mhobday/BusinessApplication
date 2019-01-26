@@ -13,10 +13,12 @@ Description: <>
 
 Duty of Team Member:
 
+Laura Muellner   -  <Team Leader>
+
 Chen Su           -  <>
 
 Jared Boyer       -  <>
 
 Max Hobday        -  <>
 
-Laura Muellner   -  <>
+
