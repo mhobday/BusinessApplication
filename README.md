@@ -13,7 +13,7 @@ Description: <>
 
 Duty of Team Member:
 
-Laura Muellner   -  <Team Leader>
+Laura Muellner   -  **Team Leader**
 
 Chen Su           -  <>
 
