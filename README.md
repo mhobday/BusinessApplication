@@ -13,12 +13,12 @@ Description: <We here at City Lights Entertainment are on a mission to introduce
 
 Duty of Team Member:
 
-Laura Muellner    -  <Programmer>**Team Leader**
+Laura Muellner    -  Programmer **Team Leader**
 
-Chen Su           -  <Programmer>
+Chen Su           -  Programmer
 
-Jared Boyer       -  <Programmer>
+Jared Boyer       -  Programmer
 
-Max Hobday        -  <Programmer>
+Max Hobday        -  Programmer
 
 
