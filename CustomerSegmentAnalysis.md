@@ -14,8 +14,8 @@
 
 **In what way does the customer benefit the company? **
 	
-Ex:Raising company's reputation while bringing in a small amount of profit?
-or are we as the company aiming for a larger profit, or even something else?
+Ex:Does the company aiming for raising company's reputation while bringing in a small amount of profit?
+or are we as the company are aiming for a larger profit, or even something else?
 	
 	
 	
