@@ -1,5 +1,5 @@
-**Provide an overview of the company's customer segment with much detail as possible** (Summarize the customer segment analysis?)\
-Us here at City Lights want our first game audience to be high schoolers about to enter college to college graduates who can still remember the horrors of college, or for those who wish to expeience college life for better or worse
+**Provide an overview of the company's customer segment with much detail as possible** 
+City Lights Entertainment wants our first game's audience to be high schoolers about to enter college as well as college graduates who can still remember the horrors of college, or for those who wish to expeience college life for better or worse
 
 **Online-Service Description, how is the company planning to take the first step in the online market? What are we
   the company aiming for? what are the path the company used to deliver it's product or service?**
