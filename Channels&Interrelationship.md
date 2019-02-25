@@ -1,3 +1,6 @@
+**How will we raise customer awareness?**
+Since it will be difficult to get through steam greenlight we will need to work hard to get out game out there before it goes to Steam. We will have a trailer for the game on our personal website, we will enter it into as many indie game competitions as possible, send it for free to let's players and game journalism sites, write about it ourselves on social media and encourage our friends and family to do the same. We will post frequent updates on social media and our website and do a reddit AMA when it is nearly finished. Hopefully with thoose things together we will gain enough popularity to get our game onto Steam.
+
 **How could the customer reach out to the company and how does the company provide support to the customer?**
   
 Since our plan is to launch our first game on Steam, our customers could reach out to our company by leaving comment on our developer page, or through the contact information listed on our company website.
