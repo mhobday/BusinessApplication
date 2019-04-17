@@ -1,2 +1,3 @@
-**What Value Proposition are we offering to our customers? In another word, how are we going to deliver the product? and 
-how are we as a company sustains ourself?**
+**What Value Proposition are we offering to our customers?**
+
+Our goal is to provide customers with an enjoyable RPG experience that is a mixture of satirical humor about the college lifestyle with a compelling storyline and characters struggling to make ends meet in an unstable time in life. We feel it will be a relatable story for those who have finished college, while still being an interesting and compelling story for those who have not and/or chose not to. It will be difficult to stand out from the other dozens of simple RPGs on Steam, but we hope our eye-catching title and compelling narrative will be enough to develop a fanbase large enough to get us of the ground and onto a second game better than the first.
