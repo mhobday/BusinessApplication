@@ -3,11 +3,11 @@ Since it will be difficult to get through steam greenlight we will need to work 
 
 **How could the customer reach out to the company and how does the company provide support to the customer?**
   
-Since our plan is to launch our first game on Steam, our customers could reach out to our company by leaving comment on our developer page, or through the contact information listed on our company website.
+Since our plan is to launch our first game on Steam, our customers could reach out to our company by leaving comment on our developer page, or through the contact information listed on our company website. From there we could offer tech support or fix any bugs or issues that they may point out in the game.
 
 **How could the customer evalute what the company offers? How could the customer purchase the product?**
 
-Before the official launch of the game, our development team will release a brief trailer of our game for our customers to determine their interest in our product. When the game is released on Steam, our customers will be able to purchase our product through Steam, and through our company website.
+Throughout development of the game we will be posting art assets, music, screenshots, and teaser trailers as we finish them to get people excited and to help them see if they would want the game. Just before the official launch of the game, our development team will release a full trailer of our game, so any potential customers who haven't been following development can decide if they would be interested in our game. When the game is released on Steam, our customers will be able to purchase our product through Steam, and even before that it will be available through our company website.
 
 **What type of relationship does our company have with customers?**
 
